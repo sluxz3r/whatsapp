@@ -20,22 +20,22 @@
 }
 
 .App-title {
-  font-size: 30px;
+  font-size: 18px;
   font-weight: bold;
   font-family: monospace;
 }
 
 .App-textbig {
-  font-size: 20px;
+  font-size: 12px;
 }
 
 .App-textstrike {
-  font-size: 20px;
+  font-size: 12px;
   text-decoration: line-through;
 }
 
 .App-text {
-  font-size: 12px;
+  font-size: 8px;
 }
 
 
