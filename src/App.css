@@ -1,6 +1,23 @@
 .App {
   text-align: center;
+  padding: 40px;
 }
+
+.App-image {
+  margin: 40px;
+  width: 50%;
+}
+
+.App-image-sm {
+  margin: 40px;
+  width: 20%;
+}
+
+.App-chat {
+  padding: 20px;
+  width: 100%;
+}
+
 
 .App-logo {
   height: 40vmin;
