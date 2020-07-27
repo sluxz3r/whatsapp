@@ -17,7 +17,7 @@ import logo16 from './16.jpg';
 
 function App() {
   const chatme = () => {
-    window.open('https://api.whatsapp.com/send?phone=628112640112&text=Hallo%20admin,%20mau%20tanya%20promo%20minyak%20lintah%20hitam%20papua%20ORIGINAL%20nya%20dong')
+    window.open('https://api.whatsapp.com/send?phone=6283136805581&text=Hallo%20admin,%20mau%20tanya%20promo%20minyak%20lintah%20hitam%20papua%20ORIGINAL%20nya%20dong')
   }
   return (
     <div className="App">
