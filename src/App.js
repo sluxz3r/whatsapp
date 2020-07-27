@@ -38,7 +38,7 @@ function App() {
       <h3 className="App-textbig">(belum termasuk ongkir)</h3>
       <h1 className="App-title">+</h1>
       <h2 className="App-textbig">PROMO Beli 1 Dapat 2</h2>
-      <h2 className="App-textbig">Harga Lebih Murah, Beli 2 dapat 4, Beli 3 dapat 1box isi 6. Ajak Teman kamu untuk mendapatkan harga spesial dari kami.</h2>
+      <h2 className="App-text">Harga Lebih Murah, Beli 2 dapat 4, Beli 3 dapat 1box isi 6. Ajak Teman kamu untuk mendapatkan harga spesial dari kami.</h2>
       <img className="App-image" src={logo11} alt="Logo-11" />
       <img className="App-image" src={logo17} alt="Logo-17" />
       <img className="App-image" src={logo4} alt="Logo-4" />
@@ -46,16 +46,16 @@ function App() {
       <img className="App-image" src={logo6} alt="Logo-6" />
       <img className="App-image" src={logo7} alt="Logo-7" />
       <img className="App-image" src={logo8} alt="Logo-8" />
-      <h2 className="App-textbig">Disclaimer</h2>
-      <h2 className="App-textbig">Hasil bisa berbeda beda, tergantung metabolisme tubuh masing masing individu, ada yang cepat tapi ada juga yang lambat. tetapi hasil dari penggunaannya pasti akan memberikan hasil yang positif apabila anda menggunakannya dan membuktikannya sendiri.</h2>
+      <h2 className="App-text">Disclaimer</h2>
+      <h2 className="App-text">Hasil bisa berbeda beda, tergantung metabolisme tubuh masing masing individu, ada yang cepat tapi ada juga yang lambat. tetapi hasil dari penggunaannya pasti akan memberikan hasil yang positif apabila anda menggunakannya dan membuktikannya sendiri.</h2>
       <img className="App-image" src={logo9} alt="Logo-9" />
       <img className="App-image" src={logo10} alt="Logo-10" />
       <img className="App-image" src={testi1} alt="Testi-1" />
       <img className="App-image" src={testi2} alt="Testi-2" />
       <img className="App-image" src={testi3} alt="Testi-3" />
       <img className="App-image" src={logo12} alt="Logo-12" />
-      <h2 className="App-textbig">Bagai mana cara memesannya?</h2>
-      <h2 className="App-textbig">Silahkan hubungi kami di 081319205990 dengan format pemesanan mau pesan berapa botol, nama, nomor hp aktif, alamat lengkap (desa, jalan, RT/RW, nomor/blok rumah, kecamatan, kabupaten, provinsi), akan melakukan pembayaran ke BNI/BRI/BCA/MANDIRI/Bayar Ditempat COD</h2>
+      <h2 className="App-text">Bagai mana cara memesannya?</h2>
+      <h2 className="App-text">Silahkan hubungi kami di 081319205990 dengan format pemesanan mau pesan berapa botol, nama, nomor hp aktif, alamat lengkap (desa, jalan, RT/RW, nomor/blok rumah, kecamatan, kabupaten, provinsi), akan melakukan pembayaran ke BNI/BRI/BCA/MANDIRI/Bayar Ditempat COD</h2>
       <br />
       <img className="App-image-sm" src={logo13} alt="Logo-13" />
       <br />
