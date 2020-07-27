@@ -5,17 +5,36 @@
 
 .App-image {
   margin: 40px;
-  width: 50%;
+  width: 90%;
 }
 
 .App-image-sm {
   margin: 40px;
-  width: 20%;
+  width: 70%;
 }
 
 .App-chat {
   padding: 20px;
   width: 100%;
+}
+
+.App-title {
+  font-size: 50px;
+  font-weight: bold;
+  font-family: monospace;
+}
+
+.App-textbig {
+  font-size: 40px;
+}
+
+.App-textstrike {
+  font-size: 40px;
+  text-decoration: line-through;
+}
+
+.App-text {
+  font-size: 20px;
 }
 
 
