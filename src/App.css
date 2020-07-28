@@ -27,6 +27,11 @@
   width: 70%;
 }
 
+.App-fab {
+  height: 100%;
+  width: 100%;
+}
+
 .App-chat {
   padding: 12px;
   width: 100%;

@@ -1,6 +1,8 @@
 import React from 'react';
-import { Container, Button } from 'react-floating-action-button';
+import { Fab } from 'react-tiny-fab';
+import 'react-tiny-fab/dist/styles.css';
 import './App.css';
+import Tab from './whatsapp'
 import logo1 from './1.jpg';
 import logo2 from './2.jpg';
 import logo4 from './4.jpg';
@@ -68,15 +70,12 @@ function App() {
         <img className="App-image" src={logo15} alt="Logo-15" />
         <img className="App-image" src={logo16} alt="Logo-16" />
       </div>
-      <button className="App-chat"onClick={() => chatme()}>ORDER VIA WHATSAPP KLIK DISINI</button>
-      <Container>
-        <Button
-            tooltip="The big plus button!"
-            icon="fa fa-whatsapp"
-            styles={{backgroundColor: "#2f7e49", color: "white", fontSize: 30}}
-            rotate={false}
-            onClick={() => alert('FAB Rocks!')} />
-        </Container>
+      <Fab
+        icon={<Tab />}
+        text="Order via Whatsapp"
+        event="click"
+        onClick={chatme}
+      />
     </div>
   );
 }
