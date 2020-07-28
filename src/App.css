@@ -26,16 +26,15 @@
 }
 
 .App-chat {
-  padding: 20px;
+  padding: 12px;
   width: 100%;
   position: fixed;
   bottom: 0px;
   right: 0px;
-  background-color: #25D366;
-  border-color: #25D366;
+  background-color: #2f7e49;
+  border-color: #2f7e49;
   color: white;
-  font-size: 16px;
-  font-weight: bold;
+  font-size: 18px;
 }
 
 .App-title {

@@ -67,7 +67,7 @@ function App() {
         <img className="App-image" src={logo15} alt="Logo-15" />
         <img className="App-image" src={logo16} alt="Logo-16" />
       </div>
-      <button className="App-chat"onClick={() => chatme()}>Order sekarang!</button>
+      <button className="App-chat"onClick={() => chatme()}>ORDER VIA WHATSAPP KLIK DISINI</button>
     </div>
   );
 }
