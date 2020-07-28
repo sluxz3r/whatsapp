@@ -47,7 +47,7 @@ function App() {
         <img className="App-image" src={logo6} alt="Logo-6" />
         <img className="App-image" src={logo7} alt="Logo-7" />
         <img className="App-image" src={logo8} alt="Logo-8" />
-        <h2 className="App-text">Disclaimer</h2>
+        <h2 className="App-textbig">Disclaimer</h2>
         <h2 className="App-text">Hasil bisa berbeda beda, tergantung metabolisme tubuh masing masing individu, ada yang cepat tapi ada juga yang lambat. tetapi hasil dari penggunaannya pasti akan memberikan hasil yang positif apabila anda menggunakannya dan membuktikannya sendiri.</h2>
         <img className="App-image" src={logo9} alt="Logo-9" />
         <img className="App-image" src={logo10} alt="Logo-10" />
@@ -55,8 +55,8 @@ function App() {
         <img className="App-image" src={testi2} alt="Testi-2" />
         <img className="App-image" src={testi3} alt="Testi-3" />
         <img className="App-image" src={logo12} alt="Logo-12" />
-        <h2 className="App-text">Bagai mana cara memesannya?</h2>
-        <h2 className="App-text">Silahkan hubungi kami di 083136805581 dengan format pemesanan mau pesan berapa botol, nama, nomor hp aktif, alamat lengkap (desa, jalan, RT/RW, nomor/blok rumah, kecamatan, kabupaten, provinsi), akan melakukan pembayaran ke BNI/BRI/BCA/MANDIRI/Bayar Ditempat COD</h2>
+        <h2 className="App-textbig">Bagai mana cara memesannya?</h2>
+        <h2 className="App-textbig">Silahkan hubungi kami di 083136805581 dengan format pemesanan mau pesan berapa botol, nama, nomor hp aktif, alamat lengkap (desa, jalan, RT/RW, nomor/blok rumah, kecamatan, kabupaten, provinsi), akan melakukan pembayaran ke BNI/BRI/BCA/MANDIRI/Bayar Ditempat COD</h2>
         <br />
         <h2 className="App-textbig">KURIR PENGIRIMAN</h2>
         <img className="App-image-sm" src={logo13} alt="Logo-13" />
