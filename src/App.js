@@ -72,6 +72,7 @@ function App() {
       </div>
       <Fab
         icon={<Tab />}
+        position={{bottom: 18, right: 18}}
         text="Order via Whatsapp"
         event="click"
         onClick={chatme}
