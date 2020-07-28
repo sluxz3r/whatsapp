@@ -19,6 +19,7 @@ import logo14 from './14.jpg';
 import logo15 from './15.jpg';
 import logo16 from './16.jpg';
 import logo17 from './17.jpeg';
+import logo18 from './18.png';
 import testi1 from './testi-1.jpeg';
 import testi2 from './testi-2.jpeg';
 import testi3 from './testi-3.jpeg';
@@ -43,6 +44,7 @@ function App() {
         <h1 className="App-title">+</h1>
         <h2 className="App-textbig">PROMO Beli 1 Dapat 2</h2>
         <h2 className="App-text">Harga Lebih Murah, Beli 2 dapat 4, Beli 3 dapat 1box isi 6. Ajak Teman kamu untuk mendapatkan harga spesial dari kami.</h2>
+        <img className="App-image" src={logo18} alt="Logo-18" onClick={chatme} />
         <img className="App-image" src={logo11} alt="Logo-11" />
         <img className="App-image" src={logo17} alt="Logo-17" />
         <img className="App-image" src={logo4} alt="Logo-4" />
