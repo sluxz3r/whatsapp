@@ -26,7 +26,7 @@ import testi3 from './testi-3.jpeg';
 
 function App() {
   const chatme = () => {
-    window.open('https://api.whatsapp.com/send?phone=6283136805581&text=Hallo%20admin,%20mau%20tanya%20promo%20minyak%20lintah%20hitam%20papua%20ORIGINAL%20nya%20dong')
+    window.open('https://api.whatsapp.com/send?phone=6283136805581&text=Nama:%0AKecamatan:%0AHallo%20admin,%0Amau%20tanya%20promo%20minyak%20lintah%20hitam%20papua%20ORIGINAL%20nya%20dong')
   }
   return (
     <div className="App">
