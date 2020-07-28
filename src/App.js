@@ -19,7 +19,6 @@ import logo17 from './17.jpeg';
 import testi1 from './testi-1.jpeg';
 import testi2 from './testi-2.jpeg';
 import testi3 from './testi-3.jpeg';
-import bg from './bg.jpeg';
 
 function App() {
   const chatme = () => {
