@@ -1,12 +1,12 @@
 .App {
   text-align: center;
-  padding: 12px;
+  padding: 8px;
   background-image: url(./bg.jpg);
 }
 
 .App-border {
   justify-content: center;
-  padding: 12px;
+  padding: 8px;
   border: 10px;
   border-radius: 10px;
   border-style: double;
