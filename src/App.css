@@ -1,21 +1,22 @@
 .App {
   text-align: center;
-  padding: 20px;
+  padding: 12px;
   background-image: url(./bg.jpg);
 }
 
 .App-border {
   justify-content: center;
   padding: 12px;
-  border: 16px;
+  border: 10px;
   border-radius: 10px;
   border-style: double;
+  border-color: white;
 }
 
 
 .App-image {
-  margin-top: 20px;
-  margin-bottom: 20px;
+  margin-top: 16px;
+  margin-bottom: 16px;
   width: 100%;
 }
 
@@ -41,19 +42,23 @@
   font-size: 18px;
   font-weight: bold;
   font-family: monospace;
+  color: white;
 }
 
 .App-textbig {
   font-size: 12px;
+  color: white;
 }
 
 .App-textstrike {
   font-size: 12px;
   text-decoration: line-through;
+  color: red;
 }
 
 .App-text {
   font-size: 8px;
+  color: white;
 }
 
 
