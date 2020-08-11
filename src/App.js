@@ -40,7 +40,7 @@ function App() {
         <h2 className="App-textstrike">Rp 200.000,-</h2>
         <h2 className="App-textbig">Menjadi</h2>
         <h2 className="App-textbig">Rp 150.000,-</h2>
-        <h3 className="App-textbig">(belum termasuk ongkir)</h3>
+        <h3 className="App-textbig">(Free ongkir beberapa kota + potongan ongkir seluruh Indonesia)</h3>
         <h1 className="App-title">+</h1>
         <h2 className="App-textbig">PROMO Beli 1 Dapat 2</h2>
         <h2 className="App-text">Harga Lebih Murah, Beli 2 dapat 4, Beli 3 dapat 1box isi 6. Ajak Teman kamu untuk mendapatkan harga spesial dari kami.</h2>
